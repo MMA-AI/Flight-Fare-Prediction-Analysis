@@ -10,12 +10,9 @@
 - Bug / Feature Request
 - Future scope of project
 
-Demo
-Link: https://flight-price-prediction-api.herokuapp.com/
+# Demo
 
-https://camo.githubusercontent.com/7f32d20426abce1e88c5d1c65ac8f13ae4a9aa328a7d596ecf53706e8f20579e/68747470733a2f2f692e696d6775722e636f6d2f523167327776432e706e67
-
-https://camo.githubusercontent.com/edf8c1205e4efe3e2e565bea2891eb5692524025873ed2e5f58497428bd8b009/68747470733a2f2f692e696d6775722e636f6d2f703061654c36632e706e67
+Link: 
 
 # Overview
 
@@ -35,4 +32,15 @@ pip install -r requirements.txt
 
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
 
-https://camo.githubusercontent.com/a0297b57b5bff01ec5d969f8f212a0f545117c012068cda834d9608f20e4bc75/68747470733a2f2f692e696d6775722e636f6d2f644b6d6c7071582e706e67
+# Directory Tree
+
+├── static 
+│   ├── css
+├── template
+│   ├── home.html
+├── Procfile
+├── README.md
+├── app.py
+├── flight_price.ipynb
+├── flight_rf.pkl
+├── requirements.txt
